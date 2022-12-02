@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034225151265",
+    "project_id": "loginapp-a7fb4",
+    "storage_bucket": "loginapp-a7fb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034225151265:android:58bade38f2e16e8b006260",
+        "android_client_info": {
+          "package_name": "com.shounak.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034225151265-k0a17k321ig98ftiel0grk1peptt5doj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shounak.authentication",
+            "certificate_hash": "59f9e50b4417ba9f001c662b3b8524fedd35bc6d"
+          }
+        },
+        {
+          "client_id": "1034225151265-8t2tdsbla5e20h9bkn6nj57mtr61hc6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwJkqrkrENCvDW2yJJAskiMz3YnOFYNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034225151265-8t2tdsbla5e20h9bkn6nj57mtr61hc6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
